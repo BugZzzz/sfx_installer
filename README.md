@@ -150,20 +150,3 @@ The output filename automatically strips `.tar*`.
 ./package --debug
 ```
 
----
-
-## 📄 License
-
-See [LICENSE](LICENSE).
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome.
-
-Please keep changes:
-
-- Minimal
-- Dependency-free
-- Compatible with legacy Linux
